@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Enola Holmes",
+    "type": "series",
+    "cape": "https://i.imgur.com/QGgXFl6.png",
+    "figure": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "description": "Enola Holmes é um filme de mistério de 2020, baseado na série...",
+    "gender": [
+      "Filmes para toda a família",
+      "Obras de época",
+      "Filmes baseados em livros"
+    ],
+    "cast": [
+      "Millie Bob Brown",
+      "Henry Cavill",
+      "Sam Claflin"
+    ],
+    "scenes": [
+      "Espirituosos",
+      "Suspense no Ar",
+      "Empolgantes"
+    ]
+  },
+  {
+    "title": "Enola Holmes 2",
+    "type": "series",
+    "cape": "https://i.imgur.com/QGgXFl6.png",
+    "figure": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "description": "2 Enola Holmes é um filme de mistério de 2020, baseado na série...",
+    "gender": [
+      "Filmes para toda a família 2",
+      "Obras de época 2",
+      "Filmes baseados em livros 2"
+    ],
+    "cast": [
+      "Millie Bob Brown 2",
+      "Henry Cavill 2",
+      "Sam Claflin 2"
+    ],
+    "scenes": [
+      "Espirituosos 2",
+      "Suspense no Ar 2",
+      "Empolgantes 2"
+    ]
+  },
+  {
+    "title": "Enola Holmes 3",
+    "type": "series",
+    "cape": "https://i.imgur.com/QGgXFl6.png",
+    "figure": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "description": "2 Enola Holmes é um filme de mistério de 2020, baseado na série...",
+    "gender": [
+      "Filmes para toda a família 3",
+      "Obras de época 3",
+      "Filmes baseados em livros 3"
+    ],
+    "cast": [
+      "Millie Bob Brown 3",
+      "Henry Cavill 3",
+      "Sam Claflin 3"
+    ],
+    "scenes": [
+      "Espirituosos 3",
+      "Suspense no Ar 3",
+      "Empolgantes 3"
+    ]
+  },
+  {
+    "title": "Enola Holmes films",
+    "type": "filmes",
+    "cape": "https://i.imgur.com/QGgXFl6.png",
+    "figure": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "description": "Enola Holmes é um filme de mistério de 2020, baseado na série...",
+    "gender": [
+      "Filmes para toda a família",
+      "Obras de época",
+      "Filmes baseados em livros"
+    ],
+    "cast": [
+      "Millie Bob Brown",
+      "Henry Cavill",
+      "Sam Claflin"
+    ],
+    "scenes": [
+      "Espirituosos",
+      "Suspense no Ar",
+      "Empolgantes"
+    ]
+  },
+  {
+    "title": "Enola Holmes 2 films",
+    "type": "filmes",
+    "cape": "https://i.imgur.com/QGgXFl6.png",
+    "figure": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "description": "2 Enola Holmes é um filme de mistério de 2020, baseado na série...",
+    "gender": [
+      "Filmes para toda a família 2",
+      "Obras de época 2",
+      "Filmes baseados em livros 2"
+    ],
+    "cast": [
+      "Millie Bob Brown 2",
+      "Henry Cavill 2",
+      "Sam Claflin 2"
+    ],
+    "scenes": [
+      "Espirituosos 2",
+      "Suspense no Ar 2",
+      "Empolgantes 2"
+    ]
+  },
+  {
+    "title": "Enola Holmes 3 films",
+    "type": "filmes",
+    "cape": "https://i.imgur.com/QGgXFl6.png",
+    "figure": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "description": "2 Enola Holmes é um filme de mistério de 2020, baseado na série...",
+    "gender": [
+      "Filmes para toda a família 3",
+      "Obras de época 3",
+      "Filmes baseados em livros 3"
+    ],
+    "cast": [
+      "Millie Bob Brown 3",
+      "Henry Cavill 3",
+      "Sam Claflin 3"
+    ],
+    "scenes": [
+      "Espirituosos 3",
+      "Suspense no Ar 3",
+      "Empolgantes 3"
+    ]
+  }
+]
